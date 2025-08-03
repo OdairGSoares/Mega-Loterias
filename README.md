@@ -170,11 +170,6 @@ npm run build
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📞 Suporte
-
-- **Email**: contato@megaloterias.com
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/brazilian-lottery/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/brazilian-lottery/wiki)
 
 ## 🙏 Agradecimentos
 
