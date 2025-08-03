@@ -170,7 +170,6 @@ npm run build
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
 ## 🙏 Agradecimentos
 
 - [Caixa Econômica Federal](https://www.caixa.gov.br/) pelos dados das loterias
