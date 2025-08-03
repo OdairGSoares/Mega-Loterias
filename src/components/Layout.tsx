@@ -39,7 +39,7 @@ export function Layout() {
       </Content>
       <Footer>
         <FooterContent>
-        © {new Date().getFullYear()} Mega Loterias. Este site não tem vínculo com a Caixa Econômica Federal.<br/><br/>Desenvolvido por 301 Marketing Digital.
+        © {new Date().getFullYear()} Mega Loterias. Este site não tem vínculo com a Caixa Econômica Federal. Desenvolvido por Odair Gomes Soares.
         </FooterContent>
       </Footer>
     </Container>
