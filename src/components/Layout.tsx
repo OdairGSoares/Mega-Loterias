@@ -39,7 +39,7 @@ export function Layout() {
       </Content>
       <Footer>
         <FooterContent>
-        © {new Date().getFullYear()} Mega Loterias. Este site não tem vínculo com a Caixa Econômica Federal. Desenvolvido por Odair Gomes Soares.
+        Este site não tem vínculo com a Caixa Econômica Federal.<br/><br/>Desenvolvido por Odair Gomes | © {new Date().getFullYear()} Mega Loterias.
         </FooterContent>
       </Footer>
     </Container>
