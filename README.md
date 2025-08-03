@@ -148,16 +148,6 @@ A aplicação é totalmente responsiva e otimizada para:
 npm run build
 ```
 
-### Deploy no Vercel
-1. Conecte seu repositório ao Vercel
-2. Configure as variáveis de ambiente
-3. Deploy automático a cada push
-
-### Deploy no Netlify
-1. Conecte seu repositório ao Netlify
-2. Configure o build command: `npm run build`
-3. Configure o publish directory: `dist`
-
 ## 🤝 Contribuindo
 
 1. Faça um fork do projeto
