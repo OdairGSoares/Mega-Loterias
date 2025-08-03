@@ -170,13 +170,4 @@ npm run build
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🙏 Agradecimentos
-
-- [Caixa Econômica Federal](https://www.caixa.gov.br/) pelos dados das loterias
-- [React](https://reactjs.org/) pela biblioteca incrível
-- [Vite](https://vitejs.dev/) pela ferramenta de build
-- [Tailwind CSS](https://tailwindcss.com/) pelo framework CSS
-
----
-
 **Desenvolvido com ❤️ para a comunidade brasileira de apostadores** 
