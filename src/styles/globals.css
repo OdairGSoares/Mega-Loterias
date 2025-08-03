@@ -1,0 +1,58 @@
+:root {
+  /* Cores base */
+  --primary-gradient: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
+  --secondary-gradient: linear-gradient(135deg, #8B5CF6 0%, #6366F1 100%);
+  --glass-background: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  
+  /* Gradientes específicos para cada jogo */
+  --mega-sena-gradient: linear-gradient(135deg, #209869 0%, #2FB67C 100%);
+  --lotofacil-gradient: linear-gradient(135deg, #930089 0%, #B13DAC 100%);
+  --quina-gradient: linear-gradient(135deg, #260085 0%, #4C1BA6 100%);
+}
+
+/* Classes utilitárias para glassmorphism */
+.glass-effect {
+  background: var(--glass-background);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+body {
+  background: #f8fafc;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Adicionar elementos decorativos de fundo */
+body::before,
+body::after {
+  content: '';
+  position: fixed;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  filter: blur(100px);
+  z-index: -1;
+}
+
+body::before {
+  background: rgba(139, 92, 246, 0.15);
+  top: -100px;
+  left: -100px;
+}
+
+body::after {
+  background: rgba(79, 172, 254, 0.15);
+  bottom: -100px;
+  right: -100px;
+} 
